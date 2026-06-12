@@ -86,6 +86,9 @@ mindset:    Clean Architecture > Quick Hacks
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00F5FF&height=3&width=100%"/>
+
+## `~$ analytics --github`
 
 <div align="center">
 
@@ -98,13 +101,6 @@ mindset:    Clean Architecture > Quick Hacks
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00F5FF&height=3&width=100%"/>
-
-## `~$ achievements --list`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YASHRVY7&theme=algolia&no-frame=true&row=1&column=7" />
-</div>
 
 <br/>
 
