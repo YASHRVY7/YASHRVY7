@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Yashwanth%20RV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Qt/QML%20Developer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24&height=220&section=header&text=Yashwanth%20RV&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20|%20Qt/QML%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Desktop+Apps+with+Qt%2FQML;Crafting+Web+Apps+with+Angular+%26+NestJS;Clean+Code+%7C+Clean+Architecture;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -119,22 +119,10 @@
 
 <br/>
 
-## 💡 Favorite Technologies
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,qt,angular,ts,nodejs,nestjs,mysql,postgresql,git,docker" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <i>"Turning ideas into reliable software through clean architecture and modern technologies."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24&height=120&section=footer&animation=twinkling"/>
 
 </div>
