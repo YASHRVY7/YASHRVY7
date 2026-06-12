@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=250&section=header&text=YASHWANTH%20RV&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20//%20Qt-QML%20//%20Full%20Stack&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=230&section=header&text=YASHWANTH%20RV&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20//%20Qt-QML%20//%20Full%20Stack&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=%3E+system.boot()+...+OK;%3E+Building+Desktop+Apps+with+Qt%2FQML;%3E+Full+Stack+with+Angular+%2B+NestJS;%3E+Clean+Code+%7C+Clean+Architecture;%3E+status%3A+always_learning" alt="Typing SVG" />
 
@@ -8,19 +8,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YASHRVY7&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=ffffff)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-ffffff?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000)
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-ffffff?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=000000)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td valign="top" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
 
 ## `~$ whoami`
 
@@ -33,20 +26,9 @@ currently:  Exploring advanced Qt/QML, NestJS & Docker
 mindset:    Clean Architecture > Quick Hacks
 ```
 
-</td>
-<td valign="top" width="40%" align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YASHRVY7&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&layout=compact" onerror="this.style.display='none'"/>
-
-<img width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
 
 ## `~$ tech --stack`
 
@@ -54,36 +36,36 @@ mindset:    Clean Architecture > Quick Hacks
 
 <table border="0">
 <tr>
-<td align="center" width="120">⚡ <b>Languages</b></td>
+<td align="center" width="120"><b>Languages</b></td>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,js&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center">🎨 <b>Frontend</b></td>
+<td align="center"><b>Frontend</b></td>
 <td><img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center">⚙️ <b>Backend</b></td>
+<td align="center"><b>Backend</b></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,php&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center">🖥️ <b>Desktop</b></td>
+<td align="center"><b>Desktop</b></td>
 <td><img src="https://skillicons.dev/icons?i=qt&theme=dark" /> &nbsp;<code>Qt Quick · QML · DCMTK</code></td>
 </tr>
 <tr>
-<td align="center">🗄️ <b>Databases</b></td>
+<td align="center"><b>Databases</b></td>
 <td><img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center">🛠️ <b>Tools</b></td>
+<td align="center"><b>Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" /></td>
 </tr>
 </table>
 
 </div>
 
-<div align="center">
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
 
 ## `~$ core --competencies`
 
@@ -102,9 +84,9 @@ mindset:    Clean Architecture > Quick Hacks
 
 </div>
 
-<div align="center">
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
 
 ## `~$ analytics --github`
 
@@ -117,19 +99,9 @@ mindset:    Clean Architecture > Quick Hacks
 
 </div>
 
-<div align="center">
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
-
-## `~$ achievements --list`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YASHRVY7&theme=dark&no-frame=true&no-bg=false&row=1&column=7" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
 
 ## `~$ activity --graph`
 
@@ -137,20 +109,9 @@ mindset:    Clean Architecture > Quick Hacks
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHRVY7&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" />
 </div>
 
-<div align="center">
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
-
-## `~$ contributions --snake`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-<sub><i>(Generate this via the snake-game GitHub Action on your profile repo for live animation)</i></sub>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7d7d7d,100:000000&height=4&width=100%"/>
-</div>
 
 ## `~$ connect --to=yashwanth`
 
@@ -162,9 +123,6 @@ mindset:    Clean Architecture > Quick Hacks
 <a href="mailto:YOURMAIL@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YASHRVY7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -172,18 +130,9 @@ mindset:    Clean Architecture > Quick Hacks
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  "Turning ideas into reliable software through clean      │
-│   architecture and modern technologies."                  │
-└─────────────────────────────────────────────────────────┘
-```
+<i>"Turning ideas into reliable software through clean architecture and modern technologies."</i>
 
-<br/>
-
-⭐ **Thanks for stopping by — feel free to explore my repos!** ⭐
-
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=150&section=footer&animation=fadeIn"/>
 
