@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=YASHWANTH%20RV&fontSize=58&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=%3C%20Software%20Developer%20%2F%2F%20Qt-QML%20%2F%2F%20Full%20Stack%20%3E&descAlignY=58&descSize=18&descColor=00F5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=YASHWANTH%20RV&fontSize=58&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20//%20Qt-QML%20//%20Full%20Stack&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=40&lines=%3E+system.boot()+...+OK;%3E+Building+Desktop+Apps+with+Qt%2FQML;%3E+Full+Stack+with+Angular+%2B+NestJS;%3E+Clean+Code+%7C+Clean+Architecture;%3E+status%3A+always_learning" alt="Typing SVG" />
 
