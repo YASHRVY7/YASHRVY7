@@ -86,9 +86,6 @@ mindset:    Clean Architecture > Quick Hacks
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00F5FF&height=3&width=100%"/>
-
-## `~$ analytics --github`
 
 <div align="center">
 
